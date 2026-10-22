@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /play
+Disallow: /yt-player
+Disallow: /who-is-watching
+Disallow: /my-list
+Disallow: /search?
+
+Host: https://www.1flex.org
+Sitemap: https://www.1flex.org/sitemap.xml
